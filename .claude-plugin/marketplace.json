@@ -1,0 +1,11 @@
+{
+  "name": "wisermap-plugins",
+  "owner": {"name": "WiserMap"},
+  "plugins": [{
+    "name": "wisermap",
+    "source": "./plugins/wisermap",
+    "version": "1.0.2",
+    "description": "Create and manage your WiserMap local business profile. Organize services, menus, photos, hours and FAQs, then review and submit changes with your approval.",
+    "category": "productivity"
+  }]
+}

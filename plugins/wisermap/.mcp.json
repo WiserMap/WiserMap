@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wisermap": {
+      "type": "http",
+      "url": "https://wisermap.com/mcp/wisermap"
+    }
+  }
+}

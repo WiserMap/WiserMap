@@ -4,7 +4,9 @@ Create and manage a complete local business profile through Claude, using WiserM
 
 This repository contains the WiserMap plugin bundle and a single-plugin marketplace. The bundle connects to the hosted WiserMap MCP service at https://wisermap.com/mcp/wisermap. It contains workflow instructions and public configuration—not the private WiserMap application, database, OAuth secrets, or a local replacement backend.
 
-**Publisher:** WiserMap · **Plugin:** `wisermap` · **Package version:** 1.0.1
+**Publisher:** WiserMap · **Plugin:** `wisermap` · **Package version:** 1.0.2
+
+**Repository:** https://github.com/WiserMap/WiserMap
 
 ## What is included
 

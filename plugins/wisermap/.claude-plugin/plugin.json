@@ -1,0 +1,11 @@
+{
+  "name": "wisermap",
+  "displayName": "WiserMap",
+  "version": "1.0.2",
+  "description": "Create and manage your WiserMap local business profile. Organize services, menus, photos, hours and FAQs, then review and submit changes with your approval.",
+  "author": {"name": "WiserMap", "url": "https://wisermap.com"},
+  "homepage": "https://wisermap.com/claude",
+  "license": "MIT",
+  "keywords": ["wisermap", "local-business", "business-profile", "restaurant-menu", "listing-management"],
+  "repository": "https://github.com/WiserMap/WiserMap"
+}
