@@ -1,5 +1,6 @@
 {
   "name": "wisermap-plugins",
+  "description": "WiserMap workflows for creating and maintaining complete local business profiles through the hosted WiserMap connector.",
   "owner": {"name": "WiserMap"},
   "plugins": [{
     "name": "wisermap",
